@@ -15,3 +15,7 @@ DevOps & Tools
 Databases & Caching
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,redis)](https://skillicons.dev)
+
+Enough to build simple UIs, collaborate smoothly with frontend teams, or tweak templates when needed. Here’s what I’m familiar with:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,jquery,tailwind,vite,pinia)](https://skillicons.dev)
