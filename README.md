@@ -10,7 +10,7 @@ Languages & Frameworks
 
 DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,windows,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,windows,linux,ubuntu,sentry)](https://skillicons.dev)
 
 Databases & Caching
 
