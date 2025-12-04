@@ -8,13 +8,13 @@ Languages & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel)](https://skillicons.dev)
 
-DevOps & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,sentry,git,github,gitlab,windows,linux,ubuntu)](https://skillicons.dev)
-
 Databases & Caching
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,redis)](https://skillicons.dev)
+
+DevOps & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,sentry,git,github,gitlab,windows,linux,ubuntu)](https://skillicons.dev)
 
 Enough to build simple UIs, collaborate smoothly with frontend teams, or tweak templates when needed. Here’s what I’m familiar with:
 
