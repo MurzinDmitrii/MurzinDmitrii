@@ -6,7 +6,7 @@ My backend skils:
 
 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,cs,dotnet)](https://skillicons.dev)
 
 Databases & Caching
 
