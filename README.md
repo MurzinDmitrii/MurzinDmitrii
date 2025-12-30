@@ -10,7 +10,7 @@ Languages & Frameworks
 
 Databases & Caching
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
 
 DevOps & Tools
 
