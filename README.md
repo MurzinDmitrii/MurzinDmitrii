@@ -14,8 +14,8 @@ Databases & Caching
 
 DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,sentry,git,github,gitlab,windows,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,sentry,git,github,gitlab,windows,linux,ubuntu,bash,npm)](https://skillicons.dev)
 
 Enough to build simple UIs, collaborate smoothly with frontend teams, or tweak templates when needed. Here’s what I’m familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,jquery,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,jquery,bootstrap,tailwind,pinia,figma)](https://skillicons.dev)
